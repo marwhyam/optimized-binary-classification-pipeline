@@ -1,11 +1,12 @@
 # optimized-binary-classification-pipeline
 An optimized machine learning pipeline for binary classification using serial, parallel, and GPU execution modes, benchmarked with Random Forest, XGBoost, LightGBM, and CatBoost.
 
----
 
-### 2. `optimized-binary-classification-pipeline`
 
-```markdown
+
+### `optimized-binary-classification-pipeline`
+
+
 # Optimized Machine Learning Pipeline for Binary Classification
 
 This project demonstrates how to build and optimize a machine learning pipeline using serial, parallel, and GPU-based execution. It compares model performance and resource usage under different configurations.
